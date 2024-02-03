@@ -1,0 +1,26 @@
+.texto-menor {
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+.destaq {
+    color: #DAFF01;
+}
+
+.more {
+    background-color: #9353FF;
+}
+
+.more:hover {
+    transition: ease 0.3s;
+    transform: scale(1.05);
+    background-color: #9f68ff;
+}
+
+.form-inferior {
+    width: 80%;
+    max-width: 700px;
+}
